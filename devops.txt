@@ -1,0 +1,17 @@
+Devops Tools	and life cycle 
+	
+Plan — Jira, Azure Boards, Trello, Asana Teams record requirements, break work into tasks, assign owners, and track progress. Jira and Azure Boards also connect planning work to code and release activities.
+
+Code — Git, GitHub, GitLab, Bitbucket Developers write and manage application code. Git tracks changes and lets developers work on separate branches. GitHub, GitLab, and Bitbucket host Git repositories and support code reviews and team collaboration.
+
+Build — Maven, Gradle, npm, Make Build tools prepare code for testing or release. They can compile it, download required libraries, and package the application. Maven and Gradle are common for Java projects; npm is often used with JavaScript.
+
+Test — JUnit, Selenium, Cypress, pytest, Postman Testing tools check whether software works as expected. JUnit and pytest test code; Selenium and Cypress automate browser testing; Postman helps test APIs.
+
+Release — Jenkins, GitHub Actions, GitLab CI/CD, CircleCI These tools automate the steps that prepare software for release, such as building it, running tests, and creating release packages. They can also start these steps when code changes are submitted.
+
+Deploy — Docker, Kubernetes, Helm Docker packages an application with the components it needs to run. Kubernetes manages applications packaged in containers. Helm helps teams install and update applications in Kubernetes.
+
+Operate — Ansible, Puppet, Chef, Terraform These tools help manage the systems and infrastructure that applications run on. Ansible, Puppet, and Chef automate server configuration. Terraform creates and manages infrastructure, such as virtual machines and cloud resources.
+
+Monitor — Grafana, Prometheus, Datadog, Splunk, OpenSearch Monitoring tools collect and display information about application and system health. Prometheus collects metrics and works with Grafana dashboards; Datadog, Splunk, and OpenSearch can also help teams investigate performance issues and logs.
