@@ -1,0 +1,32 @@
+Agile Methodology: Key Terms and Scrum
+
+Term	Meaning
+Agile	An approach that emphasizes delivering work in small increments, getting feedback, and adapting plans.
+Scrum	An Agile framework with defined accountabilities, events, and work items to help a team build and improve a product.
+Sprint	A fixed-length work period, one month or less, during which the Scrum Team works toward a specific goal and creates a usable product increment.
+Iteration	One repeatable cycle of planning, doing work, reviewing results, and improving. Scrum calls its cycle a Sprint.
+User story	A short description of a user need, often written as: “As a ___, I want ___, so that ___.”
+Epic	A large piece of work that is usually divided into smaller user stories. This is a common Agile planning term; its use can vary between teams.
+Story point	A team’s estimate of a story’s relative effort, complexity, and uncertainty. It is not a fixed number of hours.
+Acceptance criteria	Specific conditions that a user story must satisfy for the team to consider that feature acceptable.
+
+Role	Responsibility
+Product Owner (PO)	Maximizes the product’s value and orders the Product Backlog so the team focuses on the most valuable work.
+Scrum Master (SM)	Helps the team understand and use Scrum effectively, and works to remove obstacles to progress.
+Developers	Create the product increment during each Sprint. This group can include people with different skills, such as coding, testing, and design.
+Stakeholders	People affected by or interested in the product, such as customers or business representatives. They provide input and feedback, especially during the Sprint Review. They are not one of Scrum’s three formal accountabilities.
+	
+	
+Event	Purpose
+Sprint Planning	The team decides why the Sprint is valuable, what work it will take on, and how it plans to do that work.
+Daily Scrum	Developers check progress toward the Sprint Goal and adjust their plan for the next day.
+Sprint Review	The team and stakeholders inspect the result of the Sprint and discuss what to do next.
+Sprint Retrospective	The team discusses how it worked and chooses improvements for the next Sprint.
+Sprint	The overall timebox that contains the other Scrum events and the work to create an increment.
+
+Scrum work items and commitments
+Sprint Backlog is the correct term—the screenshot’s “Spring Backlogs” appears to be a typo. It is the work selected for the Sprint, along with the plan for completing it. The Sprint Backlog is an artifact, not an event.
+* Sprint Goal: The main outcome the team aims to achieve during the Sprint.
+* Definition of Done (DoD): The shared quality checklist that work must meet to count as complete—for example, code reviewed, tests passed, and documentation updated.
+* Acceptance criteria vs. DoD: Acceptance criteria describe what a particular feature must do. The DoD describes the quality standard that applies to completed work generally.
+
